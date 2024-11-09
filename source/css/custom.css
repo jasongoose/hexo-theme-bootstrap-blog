@@ -187,6 +187,10 @@ code {
   padding-left: 25px;
 }
 
+.blog-sidebar {
+  position: sticky;
+  top: 0;
+}
 
 /*
  * Blog posts
